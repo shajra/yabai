@@ -7,17 +7,17 @@ At the time I created this fork, Felix had the following personal patches for
 yabai:
 
 ```
-◆  felix.kratz@tu-dortmund.de 2024-03-15 02:07:22 32c0e4dc
+◆  2024-03-15 02:07:22 32c0e4dc
 │  document changes
-◆  felix.kratz@tu-dortmund.de 2024-03-15 02:07:22 08025af5
+◆  2024-03-15 02:07:22 08025af5
 │  auto padding prototype for large displays (yabai -m config auto_padding on)
-◆  felix.kratz@tu-dortmund.de 2024-03-15 02:07:22 ab0f8db6
+◆  2024-03-15 02:07:22 ab0f8db6
 │  only allow one child at a time to zoom to parent node
-◆  felix.kratz@tu-dortmund.de 2024-03-14 12:05:33 25bc294f
+◆  2024-03-14 12:05:33 25bc294f
 │  focus next window in node on window termination
-◆  felix.kratz@tu-dortmund.de 2024-03-14 12:05:33 05b6d19b
+◆  2024-03-14 12:05:33 05b6d19b
 │  focus closest window on application termination
-◆  felix.kratz@tu-dortmund.de 2024-03-14 12:05:33 bf8a5a4a
+◆  2024-03-14 12:05:33 bf8a5a4a
 │  zoomed windows occlude windows beneath in selection
 ```
 
